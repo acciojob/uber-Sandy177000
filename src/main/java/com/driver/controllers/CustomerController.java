@@ -1,5 +1,5 @@
 package com.driver.controllers;
-
+import com.driver.model.Driver;
 import com.driver.model.Customer;
 import com.driver.model.TripBooking;
 import com.driver.services.CustomerService;
